@@ -31,3 +31,16 @@ body {
 .carousel-item {
     background-color: #60003d;
 }
+
+.bg-violet {
+    background-color: #60003d;
+}
+
+.footer-link {
+    color: white;
+}
+
+.footer-link:hover {
+    color: rgb(192, 192, 192);
+    text-decoration: none;
+}
