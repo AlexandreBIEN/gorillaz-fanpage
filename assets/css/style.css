@@ -44,3 +44,14 @@ body {
     color: rgb(192, 192, 192);
     text-decoration: none;
 }
+
+@media (min-width: 766px) {
+    #carouselIndicators {
+        max-width: 500px;
+    }
+}
+@media (min-width: 992px) {
+    #navbarNavDropdown {
+        justify-content: center;
+    }
+}
