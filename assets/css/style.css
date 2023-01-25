@@ -1,10 +1,10 @@
 body {
-    background-color: #f45e7e;
+    background-color: #d83457;
     color: white;
 }
 
 .section-title {
-    color: #60003d;
+    color: black;
     font-size: 22px;
 }
 
@@ -45,9 +45,24 @@ body {
     text-decoration: none;
 }
 
+.video {
+    width: 360px;
+    height: 160px;
+}
+
 @media (min-width: 766px) {
     #carouselIndicators {
         max-width: 500px;
+    }
+    #carouselLive {
+        max-width: 500px;
+    }
+    #carouselClips {
+        max-width: 500px;
+    }
+    .video {
+        width: 470px;
+        height: 200px;
     }
 }
 @media (min-width: 992px) {
