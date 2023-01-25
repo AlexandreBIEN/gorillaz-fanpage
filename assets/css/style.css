@@ -1,0 +1,25 @@
+body {
+    background-color: #f45e7e;
+    color: white;
+}
+
+.section-title {
+    color: #60003d;
+    font-size: 22px;
+}
+
+.image-logo {
+    height: 50px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.image-avatar {
+    width: 135px;
+}
+
+.nav-link {
+    color: #60003d;
+    font-size: 22px;
+    font-weight: bold;
+}
