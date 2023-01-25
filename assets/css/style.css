@@ -15,11 +15,15 @@ body {
 }
 
 .image-avatar {
-    width: 135px;
+    width: 200px;
 }
 
 .nav-link {
     color: #60003d;
     font-size: 22px;
     font-weight: bold;
+}
+
+.album-title {
+    font-size: 20px;
 }
