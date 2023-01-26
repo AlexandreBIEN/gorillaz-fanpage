@@ -6,12 +6,14 @@ body {
 .section-title {
     color: black;
     font-size: 22px;
+    font-weight: bold;
 }
 
 .image-logo {
     height: 50px;
     width: 200px;
     margin-bottom: 20px;
+    margin-top: 80px;
 }
 
 .image-avatar {
@@ -69,4 +71,10 @@ body {
     #navbarNavDropdown {
         justify-content: center;
     }
+}
+
+.separation {
+    width: auto;
+    height: 7px;
+    margin-bottom: 20px;
 }
