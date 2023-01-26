@@ -69,7 +69,12 @@ body {
         width: 470px;
         height: 200px;
     }
-
+    #lirelasuite {
+        display: block;
+    }
+    #extend, #reduct {
+        display:none;
+    }
 }
 @media (min-width: 992px) {
     #navbarNavDropdown {
